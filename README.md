@@ -17,6 +17,7 @@ The data we collect is used solely for the purpose of improving the game experie
 Monitoring the performance of the game.
 Identifying areas for game improvements.
 Ensuring the game remains engaging and suitable for all ages.
+
 3. Data Security
 We take reasonable measures to protect your data. The information collected is anonymized and stored securely on our servers. We use industry-standard security practices to ensure that your data is protected from unauthorized access or disclosure.
 
@@ -29,7 +30,7 @@ Since our game is designed for children as well as adults, we are committed to c
 If a parent or guardian believes that their child has provided any personal information to us without consent, please contact us immediately at akumawahanye@gmail.com, and we will work to delete such information from our records.
 
 6. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. When we do, we will notify you by updating the "Last Updated" date at the top of this page. We encourage you to review this policy periodically to stay informed about how we are protecting your information.
+We may update this Privacy Policy from time to time. When we do, we will notify you by updating the "Last Updated" date at the top of this page. We encourage you to review this policy periodically to stay informed about how we are protecting your information. Also contact for permanent account deletion with activity.
 
 7. Contact Us
 If you have any questions or concerns about this Privacy Policy or the data we collect, please contact us at:
@@ -38,3 +39,6 @@ Email: akumawahanye@gmail.com
 Thank you for using MathFrenzy. We are committed to making your experience both fun and secure!
 
 This policy is designed to meet the basic needs of data protection and privacy, especially for a game used by children. Make sure to adapt it to your specific needs and legal requirements as necessary.
+
+
+
